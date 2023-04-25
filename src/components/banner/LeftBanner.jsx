@@ -42,7 +42,7 @@ const LeftBanner = () =>
                         </div>
                     </div>
                     <div>
-                    <h2 className='text-base uppercase fint-titleFont mb-4'>BEST SKILL ON</h2>
+                    <h2 className='text-base uppercase font-titleFont mb-4'>BEST SKILL ON</h2>
                     <div className='flex gap-4'>
                         <span className='bannerIcon transform hover:-translate-y-1 transition-all'>
                             <FaReact />
